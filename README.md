@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Energonman
-- 👀 I’m interesting,
-- 🌱 I’m current,
-- 💞️ I’m looking good,
+- 👀 I’m solutions architect across cloud, AI and digital transformations projects.
+- 🌱 I’m just your average live and let live nerd, I'm a too early adopter of new tech.
 - 📫 How to reach me ... through my stomach.
 
 <!---
